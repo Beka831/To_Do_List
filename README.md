@@ -1,23 +1,23 @@
-Prepared By
-Beka Tilahun UGR/22588/13
+# 📝 To-Do List System
 
-Esrael Berhanu UGR/22615/13
+A modular and scalable **To-Do List System** built with reusable components, feature-based architecture, and real-time analytics integration. This project demonstrates modern web development practices with a strong focus on code reusability, maintainability, and collaboration.
 
-Kidus Tesfaye UGR/22617/13
+---
 
-Rediet Nigatu UGR/22862/13
+## 📌 Prepared By
 
-Teamir Abdurhman UGR/23578/13
+- **Beka Tilahun** — UGR/22588/13  
+- **Esrael Berhanu** — UGR/22615/13  
+- **Kidus Tesfaye** — UGR/22617/13  
+- **Rediet Nigatu** — UGR/22862/13  
+- **Teamir Abdurhman** — UGR/23578/13  
+- **Lidiya Gezahegn** — UGR/23809/13  
+- **Sintayehu Sisay** — UGR/22551/13  
 
-Lidiya Gezahegn UGR/23809/13
-
-Sintayehu Sisay UGR/22551/13
-
-# Modular Genesis System - Monorepo
-
-A comprehensive monorepo demonstrating modular system development with reusable components, utilities, and feature packages. This project showcases modern development practices including component-based architecture, code reusability, and collaborative development workflows.
+---
 
 ## 🏗️ Project Structure
+
 
 ```
 modular-genesis-system/
