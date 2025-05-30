@@ -1,0 +1,28 @@
+
+{
+  "name": "task-analytics-system",
+  "version": "1.0.0",
+  "description": "Individual task analytics integration system",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@monorepo/ui-components": "file:../../packages/ui-components",
+    "@monorepo/utils": "file:../../packages/utils",
+    "@monorepo/feature-task-management": "file:../../packages/feature-task-management",
+    "@monorepo/feature-analytics": "file:../../packages/feature-analytics",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^5.0.0"
+  }
+}
