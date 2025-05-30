@@ -1,7 +1,7 @@
 
 ---
 
-# 📊 Dashboard Web Application
+# 📊 Dashboard Feature and chartbar
 
 ### 🧑‍💻 Developed by: Lidiya Gezahegn
 
@@ -65,7 +65,8 @@ README.md                      # Project documentation
 
 ### ✅ Dashboard (Implemented by Lidiya Gezahegn)
 
-* **File:** `app/dashboard/Dashboard.tsx`
+* **File:** `pages/app/dashboard/Dashboard.tsx`
+* **File:** `pages/Chartbar.tsx`
 * **Data Source:** `data.json`
 * **Functionality:**
 
