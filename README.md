@@ -1,10 +1,18 @@
 Prepared By
 Beka Tilahun UGR/22588/13
+
 Esrael Berhanu UGR/22615/13
+
 Kidus Tesfaye UGR/22617/13
+
 Rediet Nigatu UGR/22862/13
-Tiamer Abdurhman UGR/23578/13
+
+Teamir Abdurhman UGR/23578/13
+
+Lidiya Gezahegn UGR/23809/13
+
 Sintayehu Sisay UGR/22551/13
+
 # Modular Genesis System - Monorepo
 
 A comprehensive monorepo demonstrating modular system development with reusable components, utilities, and feature packages. This project showcases modern development practices including component-based architecture, code reusability, and collaborative development workflows.
