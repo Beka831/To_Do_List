@@ -1,7 +1,7 @@
 
 ---
 
-# 📊 Dashboard Feature and chartbar
+# 📊 Dashboard and chartbar Feature
 
 ### 🧑‍💻 Developed by: Lidiya Gezahegn
 
